@@ -1,0 +1,16 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+title: "Amal Albert."
+
+# Enable the author profile in the sidebar and set avatar path
+author_profile: true
+avatar: "/assets/images/your-photo.jpg"
+
+# Social links (replace placeholders with your real URLs)
+social:
+  - name: "linkedin"
+    url: "https://www.linkedin.com/in/amalalbert"
+  - name: "github"
+    url: "https://github.com/amaljosegivt-cybler"
